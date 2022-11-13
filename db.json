@@ -1,0 +1,92 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "Layla",
+      "body": "Marksman"
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "Balmond",
+      "body": "Fighter"
+    },
+    {
+      "userId": 1,
+      "id": 1667312102429,
+      "title": "Angela",
+      "body": "Support"
+    },
+    {
+      "userId": 1,
+      "id": 1667312862102,
+      "title": "Gatot Kaca",
+      "body": "Tank"
+    },
+    {
+      "userId": 1,
+      "id": 1667316703551,
+      "title": "Hayabuza",
+      "body": "Assasin"
+    },
+    {
+      "userId": 1,
+      "id": 1667316767801,
+      "title": "Ruby",
+      "body": "Fighter/Tank"
+    },
+    {
+      "userId": 1,
+      "id": 1667316845752,
+      "title": "Zilong",
+      "body": "Fighter/Assasin"
+    },
+    {
+      "userId": 1,
+      "id": 1667477029,
+      "title": "Nana",
+      "body": "Support"
+    },
+    {
+      "userId": 1,
+      "id": 1667932089,
+      "title": "mtoing",
+      "body": "mancing"
+    },
+    {
+      "userId": 1,
+      "id": 1667932120,
+      "title": "toing",
+      "body": "mancing"
+    },
+    {
+      "userId": 1,
+      "id": 1667932134,
+      "title": "toing",
+      "body": "mancing"
+    },
+    {
+      "userId": 1,
+      "id": 1667932370,
+      "title": "aku",
+      "body": "pintar"
+    },
+    {
+      "userId": 1,
+      "id": 1667932504,
+      "title": "hhh",
+      "body": "kkk"
+    },
+    {
+      "userId": 1,
+      "id": 1667932729,
+      "title": "qqwwqwqw",
+      "body": "cdcc"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
